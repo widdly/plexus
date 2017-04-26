@@ -1,5 +1,5 @@
 [overview](index.md) | hardware
-### hardware 
+## hardware 
 
 ![plexus internals ](https://cloud.githubusercontent.com/assets/7449649/25435266/cbf03f64-2ad2-11e7-81c3-1e9679fff9b8.jpg)
 ##### power
