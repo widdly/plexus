@@ -1,5 +1,3 @@
-# plexus
-
 overview | [hardware](hardware.md)
 ## launchpad cv/gate sequencer/keyboard
 
