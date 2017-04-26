@@ -15,3 +15,6 @@ In the video, the plexus hardware is sequencing various cgs and serge modules.  
 
 ### hardware
 
+![plexus internals ](https://cloud.githubusercontent.com/assets/7449649/25435266/cbf03f64-2ad2-11e7-81c3-1e9679fff9b8.jpg)
+##### usb midi host
+The novation launchpad is a class compliant usb midi device.  The plexus interfaces to the launchpad via a hobbytronics usb host mini ( http://www.hobbytronics.co.uk/usb-host/usb-host-mini ).  This is the blue pcb in the photo above.  It outputs standard serial midi rx/tx directly to the teensy uart.
