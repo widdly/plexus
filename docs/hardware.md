@@ -1,3 +1,9 @@
+---
+title: This is my title
+layout: post
+---
+
+Here is my page.
 # plexus
 [overview](index.md) | hardware
 ### hardware 
