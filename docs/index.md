@@ -6,4 +6,4 @@ plexus is a diy device that interfaces a novation launchpad to a teensy and prov
 The software running on the teensy provides a 4 channel sequencer inspired by the monome polygome application.
 
 
-![plexus hardware ](https://widdly.github.com/plexus/docs/plexus_hardware.jpg)
+![plexus hardware ](https://github.com/widdly/plexus/blob/master/docs/plexus_hardware.jpg)
