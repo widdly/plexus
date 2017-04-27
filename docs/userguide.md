@@ -1,4 +1,4 @@
- [overview](index.md) | [hardware](hardware.md) | [user guide](userguide.md)
+ [overview](index.md) | [hardware](hardware.md) | user guide
  
 ## user guide
 
