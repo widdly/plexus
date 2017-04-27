@@ -8,6 +8,8 @@ In the late 2000’s, button/led matrix controllers burst onto the music making 
 
 
 Pressing a button on the matrix causes plexus to start playing a melodic phrase, diatonically transposed relative to the button position.  The melodic phrase is temporally synced to an internal metronome.  Up to 4 different melodic sequences can be played simultaneously and each sequence can be sustained and looped for hands free play.  The melodic phrases can be edited on the device and can include rests, variable step lengths and irregular length sequences.
+
+
 plexus makes use of an off the shelf [Novation Launchpad mini](https://global.novationmusic.com/launch/launchpad-mini) for the button/led matrix and interfaces with it via USB.
 
 
