@@ -1,4 +1,4 @@
-overview | [hardware](hardware.md)
+overview | [hardware](hardware.md) | [user guide](userguide.md)
 ## matrix driven sequencer/keyboard/arpeggiator
 
 plexus is a mixture of a keyboard, arpeggiator and sequencer for playing a modular synthesizers.  A device was required that is less hands-on than a keyboard and more interactive than a step sequencer.  Playing a modular synthesizer involves lots of tweaking of knobs, plugging and unplugging cables and flicking switches.  This makes the traditional black and white keyboard a less than ideal partner for the modular since they require a lot of your attention and your hands.  A step sequencer, so common in modular synthesizers, lacks the immediacy and melodic variety of the keyboard.  plexus is an attempt to combine the immediacy of the keyboard with the autonomy of the sequencer.
