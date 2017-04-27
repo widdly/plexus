@@ -9,6 +9,7 @@ The right hand side round buttons select and indicate the current mode.
 
 The modes are playback, record, edit and tempo.  The bottom 4 mode buttons are unassigned in current firmware.  Only a single mode can be selected at any time and the currently selected mode will be lit green.
 
+![launchpad_main_layout](https://cloud.githubusercontent.com/assets/7449649/25469055/483136ca-2b5d-11e7-9ef6-2b535ab51923.png)
 
 ####  channel  selection and hold 
 The top row of round buttons are used to enable/disable hold and to select the current channel.
