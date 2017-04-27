@@ -1,9 +1,11 @@
 overview | [hardware](hardware.md)
-## launchpad cv/gate sequencer/keyboard/arpeggiator
+## matrix driven sequencer/keyboard/arpeggiator
 
-plexus is a diy device that interfaces a novation launchpad to a teensy and provides 4 channels of cv/gate output.  
+plexus is a mixture of a keyboard, arpeggiator and sequencer for playing a modular synthesizers.  A device was required that is less hands-on than a keyboard and more interactive than a step sequencer.  Playing a modular synthesizer involves lots of tweaking of knobs, plugging and unplugging cables and flicking switches.  This makes the traditional black and white keyboard a less than ideal partner for the modular since they require a lot of your attention and your hands.  A step sequencer, so common in modular synthesizers, lacks the immediacy and melodic variety of the keyboard.  plexus is an attempt to combine the immediacy of the keyboard with the autonomy of the sequencer.
+In the late 2000’s, button/led matrix controllers burst onto the music making scene.  Led by Brian Crabtree’s fantastic (monome project)[http://monome.org/],   devices offering programmable arrays of illuminated pushbuttons were pressed into service controlling a diverse range of software applications.  Drawing inspiration from these projects, in particular (stretta’s polygome monome application)[https://github.com/stretta/BEAP/wiki/MIDI-and-monome] but eschewing personal computers and embracing modular synthesis, plexus hopes to further this exploration.
+Pressing a button on the matrix causes plexus to start playing a melodic phrase, diatonically transposed relative to the button position.  The melodic phrase is temporally synced to an internal metronome.  Up to 4 different melodic sequences can be played simultaneously and each sequence can be sustained and looped for hands free play.  The melodic phrases can be edited on the device and can include rests, variable step lengths and irregular length sequences.
+plexus makes use of an off the shelf (Novation Launchpad mini)[https://global.novationmusic.com/launch/launchpad-mini] for the button/led matrix and interfaces with it via USB.  
 
-The software running on the teensy provides a 4 channel sequencer inspired by the monome polygome application.
 
 ![plexus hardware ](https://cloud.githubusercontent.com/assets/7449649/25432894/ae2e34f8-2ac9-11e7-8fee-1268903c134e.jpg)
 
