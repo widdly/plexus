@@ -64,6 +64,6 @@ The bottom row controls the sequence length.  The current length is indicated by
 
 ####  tempo
 The tempo mode displays the current tempo in BPM.  The bottom row of buttons can be used to vary the tempo.  The second bottom row provides a clock divider that effects all the channels.  
-The right most button on the second bottom row can be used to switch between the internal metronome and an external clock source.  The external clock source is not handled in the current firmware.
+The right most button on the bottom row can be used to switch between the internal metronome and an external clock source.  If external clock source is selected, the display shows a green arrow.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fe_FKzBE5O8" frameborder="0" allowfullscreen></iframe>
