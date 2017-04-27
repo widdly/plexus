@@ -21,5 +21,6 @@ plexus makes use of an off the shelf [Novation Launchpad mini](https://global.no
 In the video, the plexus hardware is sequencing various cgs and serge modules.  No computer is involved.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QyVMc5N7K9o" frameborder="0" allowfullscreen></iframe>
 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0wDnBckuRBQ" frameborder="0" allowfullscreen></iframe>
 
