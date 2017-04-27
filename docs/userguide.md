@@ -31,6 +31,8 @@ The sequence’s starting note will depend on the button location according to t
 
 The sequence is shifted according to the grid location and diatonically transposed.  If any part of the sequence extends beyond the edge of the grid it will wrap around and be shifted up or down accordingly.  
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gQd7kk7Ie8k" frameborder="0" allowfullscreen></iframe>
+
 
 A future firmware version will implement additional heptatonic scales, besides the major scale.
 
@@ -39,6 +41,7 @@ A future firmware version will implement additional heptatonic scales, besides t
 ####  record
 Record mode is used to record a new sequence.  The first square button pushed records the starting note of the sequence.  Subsequent notes are recorded relative to the starting note.  The current step and sequence length is indicated by a horizontal red bar along the bottom row of the button matrix.  Sequences can be up to 8 steps long.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GbVlcuvpfrU" frameborder="0" allowfullscreen></iframe>
 
 ####  edit
 Using edit mode, the rhythm of the sequence can be edited to include long and short notes, rests and different length repetitions.
@@ -56,8 +59,11 @@ The 7th row controls whether the step will send a gate out.  If the button is li
 
 The bottom row controls the sequence length.  The current length is indicated by the number of red lit buttons.  Pressing the left most bottom row button sets the length to 1, pressing the right most bottom row button sets the length to 8, and so on.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pvNvnSbT9Sw" frameborder="0" allowfullscreen></iframe>
+
 
 ####  tempo
 The tempo mode displays the current tempo in BPM.  The bottom row of buttons can be used to vary the tempo.  The second bottom row provides a clock divider that effects all the channels.  
 The right most button on the second bottom row can be used to switch between the internal metronome and an external clock source.  The external clock source is not handled in the current firmware.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fe_FKzBE5O8" frameborder="0" allowfullscreen></iframe>
