@@ -1,5 +1,5 @@
 # plexus
-launchpad cv/gate sequencer/keyboard/arpeggiator
+matrix driven sequencer/keyboard/arpeggiator
 
 plexus is a diy device that interfaces a novation launchpad to a teensy and provides 4 channels of cv/gate output.  
 
