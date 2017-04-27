@@ -26,7 +26,7 @@ In playback mode, pressing one of the square buttons will start the sequence pla
 
 The sequence’s starting note will depend on the button location according to the following layout.
 
-[launchpad_note_layout](https://cloud.githubusercontent.com/assets/7449649/25468712/0e7cd7ce-2b5b-11e7-8d8c-a19fbfa2f498.png)
+![launchpad_note_layout](https://cloud.githubusercontent.com/assets/7449649/25468712/0e7cd7ce-2b5b-11e7-8d8c-a19fbfa2f498.png)
 
 The sequence is shifted according to the grid location and diatonically transposed.  If any part of the sequence extends beyond the edge of the grid it will wrap around and be shifted up or down accordingly.  
 
@@ -45,7 +45,7 @@ Using edit mode, the rhythm of the sequence can be edited to include long and sh
 
 The edit screen is divided into three sections.  Each step in the sequence is represented by a column on the button matrix.
 
-[launchpad_edit_mode](https://cloud.githubusercontent.com/assets/7449649/25468713/0e81f1aa-2b5b-11e7-9a73-3ad208977fea.png)
+![launchpad_edit_mode](https://cloud.githubusercontent.com/assets/7449649/25468713/0e81f1aa-2b5b-11e7-9a73-3ad208977fea.png)
 
 The top 6 rows control the step lengths.  Each step can be from 1 to 6 clock ticks in length. The length will display as 1 to 6 vertical orange lights and pressing the appropriate button will change the steps length.
 
