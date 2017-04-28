@@ -22,5 +22,5 @@ In the video, the plexus hardware is sequencing various cgs and serge modules.  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QyVMc5N7K9o" frameborder="0" allowfullscreen></iframe>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0wDnBckuRBQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vxHF6Q2zlNc" frameborder="0" allowfullscreen></iframe>
 
